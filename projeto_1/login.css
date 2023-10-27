@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: #186f72;
+}
+
+.container{
+    height: 100dvh;
+    background-color: rgb(35, 124, 119);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;}
+    
+
+.form-login{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column ;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem; /* 1 rem = 16px */
+    border-radius: 5px;  /* Arredonda a borda */
+    box-shadow: 3px 3px 4px black; /* sombra da caixa, vertical, horizontal, transparencia e cor*/
+    width: 40%;
+
+}
+
+.form-login input{
+
+
+}
+
+
+.btns{
+    display: flexbox;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: #186f72;
+    width: 50px;
+    right: 50 px;
+}

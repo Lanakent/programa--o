@@ -26,3 +26,14 @@ else{
     console.log('Parabens, o valor da compra não excedeu e o menino não apanhou');
     console.log('O valor da compra foi de:' )
 }
+
+
+
+
+
+
+
+
+
+
+
